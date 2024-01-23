@@ -16,7 +16,7 @@ I'm a frontend engineer based in Japan, currently diving into the world of smart
 
 ### 📚 View my resume
 
-- 📝 For a detailed overview of my journey, visit my [Resume (Japanese)](https://github.com/zawa-kyo/resume)
+- 📝 For a detailed overview of my journey, visit [my resume (japanese language only)](https://github.com/zawa-kyo/resume)
 
 ### 📮 How to reach me
 
