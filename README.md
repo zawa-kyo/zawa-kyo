@@ -16,9 +16,9 @@ I'm a frontend engineer based in Japan, currently diving into the world of smart
 
 ### 📚 View my Resume
 
-- 📝 For a detailed overview of my journey, visit my [Resume (Japanese)](https://github.com/zawa-kyo/resume).
+- 📝 For a detailed overview of my journey, visit my [Resume (Japanese)](https://github.com/zawa-kyo/resume)
 
 ### 📮 How to reach me
 
-- 📫 Feel free to contact me at [kyohei.ozawa.work@gmail.com](mailto:kyohei.ozawa.work@gmail.com) for professional inquiries or collaborations.
-- 🔗 Also reachable on [Linkedin](https://www.linkedin.com/in/kyohei-ozawa/) for networking and opportunities.
+- 📫 Feel free to contact me at [kyohei.ozawa.work@gmail.com](mailto:kyohei.ozawa.work@gmail.com) for professional inquiries or collaborations
+- 🔗 Also reachable on [Linkedin](https://www.linkedin.com/in/kyohei-ozawa/) for networking and opportunities
