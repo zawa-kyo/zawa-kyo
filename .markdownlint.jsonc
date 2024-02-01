@@ -1,0 +1,7 @@
+{
+  "MD013": {
+    "line_length": 140 // Line length
+  },
+  "MD026": false, // Trailing punctuation in heading [Punctuation: '!']
+  "MD041": false // First line in a file should be a top-level heading
+}
