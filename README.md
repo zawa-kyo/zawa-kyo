@@ -11,8 +11,9 @@ I'm a frontend engineer based in Japan, currently diving into the world of smart
 
 ### 🌐 Connect with me online
 
-- 🤔 Sharing insights and articles on [Zenn](https://zenn.dev/zawa_kyo)
-- 🙋‍♂️ Networking on [LinkedIn](https://www.linkedin.com/in/kyohei-ozawa/)
+- 🤔 Sharing insights and articles on [![Zenn](https://img.shields.io/badge/Zenn-Kyo-3EA8FF.svg?logo=zenn&style=flat)](https://zenn.dev/zawa_kyo) and [![Qiita](https://img.shields.io/badge/Qiita-Kyohei%20Ozawa-55C500.svg?logo=qiita&style=flat">)](https://qiita.com/zawa-kyo)
+
+- 🙋‍♂️ Networking on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyohei%20Ozawa-0A66C2.svg?logo=linkedin&style=flat)](https://www.linkedin.com/in/kyohei-ozawa/) 
 
 ### 📚 View my resume
 
