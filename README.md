@@ -1,4 +1,7 @@
-[<img src="https://img.shields.io/badge/Zenn-kyo-3EA8FF.svg?logo=zenn&style=popout">](https://zenn.dev/zawa_kyo) [<img src="https://img.shields.io/badge/Qiita-Kyohei%20Ozawa-55C500.svg?logo=qiita&style=popout">](https://qiita.com/zawa-kyo) [<img src="https://img.shields.io/badge/LinkedIn-Kyohei%20Ozawa-0A66C1.svg?logo=linkedin&style=popout">](https://www.linkedin.com/in/kyohei-ozawa/) [<img src="https://img.shields.io/badge/Gmail-kyohei.ozawa.work@gmail.com-EA4335.svg?logo=gmail&style=popout">](mailto:kyohei.ozawa.work@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-Kyohei%20Ozawa-0A66C1.svg?logo=linkedin&style=flat">](https://www.linkedin.com/in/kyohei-ozawa/) [<img src="https://img.shields.io/badge/Gmail-kyohei.ozawa.work@gmail.com-EA4335.svg?logo=gmail&style=flat">](mailto:kyohei.ozawa.work@gmail.com) [<img src="https://img.shields.io/badge/Qiita-Kyohei%20Ozawa-55C500.svg?logo=qiita&style=flat">](https://qiita.com/zawa-kyo)
+
+[<img src="https://img.shields.io/badge/Zenn-kyo-47A6F5.svg?logo=zenn&style=flat">](https://zenn.dev/zawa_kyo) [![Articles](https://badgen.org/img/zenn/zawa_kyo/articles?style=flat)](https://zenn.dev/zawa_kyo) [![Zenn Likes](https://badgen.org/img/zenn/zawa_kyo/likes?style=flat)](https://zenn.dev/zawa_kyo)
+
 
 ## 👋 Hello, I'm Kyohei!
 
